@@ -26,8 +26,10 @@ Anomalies: High fare outliers; Cabin missingness.
 
 Files
 train.csv: Dataset
-Task 5_ Exploratory_ Data Analysis (EDA).ipynb: EDA code and visualizations
+Task 5_ Exploratory_ Data Analysis (EDA).ipynb
 Task 5_ Exploratory_ Data Analysis (EDA).pdf
+EdA Visuals.pdf
+Screenshots images
 Tools
 Python: Pandas, Matplotlib, Seaborn, NumPy
 Jupyter Notebook
